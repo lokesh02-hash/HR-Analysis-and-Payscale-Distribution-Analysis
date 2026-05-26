@@ -1,4 +1,6 @@
 # HR-Analysis-and-Payscale-Distribution-Analysis
+Check out this drive link to see the files: 
+https://drive.google.com/drive/folders/1Oyx6gjfpzJMkk3tsY8qKCa1CVqBxFiv2?usp=sharing
 
 ## Overview
 
