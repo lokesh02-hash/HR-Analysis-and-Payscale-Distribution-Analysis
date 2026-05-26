@@ -2,6 +2,8 @@
 Check out this drive link to see the files: 
 https://drive.google.com/drive/folders/1Oyx6gjfpzJMkk3tsY8qKCa1CVqBxFiv2?usp=sharing
 
+Highly advised to open with microsoft apps
+
 ## Overview
 
 This project is an interactive HR & Payroll Analytics Dashboard built using Power BI, Excel, Power Query, and DAX. It analyzes employee attendance, payroll distribution, overtime trends, leave behavior, and department-wise workforce performance through dynamic visualizations and KPI reporting.
